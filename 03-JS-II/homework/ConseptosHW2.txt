@@ -1,0 +1,7 @@
+Homework: Javascript II 
+
+for= es una funcion la cual nos ayuda a ejecutar una accion requerida en mas de una ocasion para no tener que sobre escribir codigos y con esto ahorrar tiempo,
+
+&&= Operador logico 'and' en el cual solo cumple si las dos condiciones son true.
+||= Operador logico 'or' el cual sera true si algunas de las dos condiciones comparadas es true.
+!= Operador logico que denomina negacion a la condicion que se le anteponga el signo, si es true se convertira en false y biseversa.
