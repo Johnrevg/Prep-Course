@@ -1,0 +1,3 @@
+Definicion de ARRAY.
+
+Podria definirse con un contenedor de almacenamiento paracolecciones de datos los caules pueden ser de tipo STRING, BOOLEANO O NUMERO.
