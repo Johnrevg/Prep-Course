@@ -1,0 +1,19 @@
+Definiciones de Javascript IV 
+
+Objeto=
+-Es una coleccion de propiedades.
+
+Propiedades=
+-Es la asociacion entre el nombre (o clave 'key value') y un valor.
+
+Metodos=
+-Las funciones guardades en un objeto.
+
+Bucle For..in:
+-Se utiliza para poder recorrer todas las propiedades de un objeto dentro de la variable que se defina 
+dentro del bucle (depues del 'in') para hacer una tarea especifica.
+
+Notacion de puntos VS Notacion de corchetes:
+-Se una Notacino de puntos para agilizar la escritura del codigo y querer invocar una propiedad del objeto sin usar corchete, 
+si queremos utilizar variables tenemos que usar corchetes. 
+
