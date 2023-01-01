@@ -1,0 +1,14 @@
+Definiciones de Javascript V
+
+prototype:
+Todos los objetos tienen una referencia a otro objeto llamado proto.
+
+Se utiliza para guardar prototypos en el propio objeto para no saturar al objeto.
+
+
+Constructors (de clases):
+
+plantilla para la creacion de objetos de datos segun un modelo predefinido. (Fabrica de autos).
+
+Es la funcion que nos ayuda a crear un molde para poder repetir una funcion con las caracteristicas 
+repetitivas y no gastar memoria en crear varias lineas de codigo.
