@@ -1,0 +1,6 @@
+Definiciones Javascript VI
+
+Funciones Callback:
+
+Es la capacidad de pasar una funcion como argumento a otra funcion.
+
